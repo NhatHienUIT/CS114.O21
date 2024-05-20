@@ -33,8 +33,8 @@
 | STT    | MSSV          | Họ và Tên              | Github                                              | Email                   |
 | ------ |:-------------:| ----------------------:|----------------------------------------------------:|-------------------------:
 | 1      | 22520424      | Thái Đình Nhật Hiển    |[NhatHienUIT](https://github.com/NhatHienUIT)        |22520424@gm.uit.edu.vn   |
-| 2      | 22520460      | Hà Huy Hoàng           |[l1aF-2027](https://github.com/l1aF-2027).           |22520460@gm.uit.edu.vn   |
-| 3      | 22520467      | Nguyễn Duy Hoàng       |                                                     |22520467@gm.uit.edu.vn   |
+| 2      | 22520460      | Hà Huy Hoàng           |[l1aF-2027](https://github.com/l1aF-2027)            |22520460@gm.uit.edu.vn   |
+| 3      | 22520467      | Nguyễn Duy Hoàng       |[hoangnd.04](https://github.com/hoangnd.04)          |22520467@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
